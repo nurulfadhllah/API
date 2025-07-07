@@ -9,8 +9,14 @@
     {
       "judul": "Laravel",
       "kategori": "Database",
-      "progress": 5,
+      "progress": 0,
       "id": "2"
+    },
+    {
+      "id": "7830",
+      "judul": "Javascript",
+      "kategori": "Frontend",
+      "progress": 0
     }
   ],
   "sertifikat": [
