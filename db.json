@@ -1,0 +1,37 @@
+{
+  "kursus": [
+    {
+      "id": 1,
+      "judul": "Vue Dasar",
+      "kategori": "Frontend",
+      "progress": 100
+    },
+    {
+      "judul": "Laravel",
+      "kategori": "Database",
+      "progress": 65,
+      "id": 2
+    }
+  ],
+  "sertifikat": [
+    {
+      "id": 1,
+      "namaFile": "sertifikat-vue.pdf",
+      "userId": 1
+    },
+    {
+      "namaFile": "Nurul Fadhillah_233510802_4E_PBO_PRK_P2.pdf",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "user": {
+    "id": 1,
+    "nama": 
+    
+    "Nurul",
+    "email": "nurul@example.com"
+  }
+
+ 
+}
